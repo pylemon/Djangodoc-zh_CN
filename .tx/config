@@ -1,46 +1,79 @@
 [main]
 host = https://www.transifex.com
 
-[django-docs.contents]
-file_filter = translations/<lang>/contents.po
+[djangodoc-zh_cn.contents]
+file_filter = pots/.pot
+source_file = pots/contents.pot
 source_lang = en
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/contents.po
+type = PO
 
-[django-docs.faq]
-file_filter = translations/<lang>/faq.po
+[djangodoc-zh_cn.faq]
+file_filter = pots/.pot
+source_file = pots/faq.pot
 source_lang = en
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/faq.po
+type = PO
 
-[django-docs.glossary]
-file_filter = translations/<lang>/glossary.po
+[djangodoc-zh_cn.glossary]
+file_filter = pots/.pot
+source_file = pots/glossary.pot
 source_lang = en
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/glossary.po
+type = PO
 
-[django-docs.howto]
-file_filter = translations/<lang>/howto.po
+[djangodoc-zh_cn.howto]
+file_filter = pots/.pot
+source_file = pots/howto.pot
 source_lang = en
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/howto.po
+type = PO
 
-[django-docs.index]
-file_filter = translations/<lang>/index.po
+[djangodoc-zh_cn.index]
+file_filter = pots/.pot
+source_file = pots/index.pot
 source_lang = en
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/index.po
+type = PO
 
-[django-docs.internals]
-file_filter = translations/<lang>/internals.po
+[djangodoc-zh_cn.internals]
+file_filter = pots/.pot
+source_file = pots/internals.pot
 source_lang = en
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/internals.po
+type = PO
 
-[django-docs.intro]
-file_filter = translations/<lang>/intro.po
+[djangodoc-zh_cn.intro]
+file_filter = pots/.pot
+source_file = pots/intro.pot
 source_lang = en
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/intro.po
+type = PO
 
-[django-docs.misc]
-file_filter = translations/<lang>/misc.po
+[djangodoc-zh_cn.misc]
+file_filter = pots/.pot
+source_file = pots/misc.pot
 source_lang = en
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/misc.po
+type = PO
 
-[django-docs.reference]
-file_filter = translations/<lang>/ref.po
+[djangodoc-zh_cn.ref]
+file_filter = pots/.pot
+source_file = pots/ref.pot
 source_lang = en
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/ref.po
+type = PO
 
-[django-docs.releases]
-file_filter = translations/<lang>/releases.po
+[djangodoc-zh_cn.releases]
+file_filter = pots/.pot
+source_file = pots/releases.pot
 source_lang = en
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/releases.po
+type = PO
 
-[django-docs.topics]
-file_filter = translations/<lang>/topics.po
+[djangodoc-zh_cn.topics]
+file_filter = pots/.pot
+source_file = pots/topics.pot
 source_lang = en
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/topics.po
+type = PO
