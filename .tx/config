@@ -5,75 +5,75 @@ host = https://www.transifex.com
 file_filter = pots/.pot
 source_file = pots/contents.pot
 source_lang = en
-trans.zh_CN = translations/contents.po
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/contents.po
 type = PO
 
 [djangodoc-zh_cn.faq]
 file_filter = pots/.pot
 source_file = pots/faq.pot
 source_lang = en
-trans.zh_CN = translations/faq.po
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/faq.po
 type = PO
 
 [djangodoc-zh_cn.glossary]
 file_filter = pots/.pot
 source_file = pots/glossary.pot
 source_lang = en
-trans.zh_CN = translations/glossary.po
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/glossary.po
 type = PO
 
 [djangodoc-zh_cn.howto]
 file_filter = pots/.pot
 source_file = pots/howto.pot
 source_lang = en
-trans.zh_CN = translations/howto.po
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/howto.po
 type = PO
 
 [djangodoc-zh_cn.index]
 file_filter = pots/.pot
 source_file = pots/index.pot
 source_lang = en
-trans.zh_CN = translations/index.po
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/index.po
 type = PO
 
 [djangodoc-zh_cn.internals]
 file_filter = pots/.pot
 source_file = pots/internals.pot
 source_lang = en
-trans.zh_CN = translations/internals.po
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/internals.po
 type = PO
 
 [djangodoc-zh_cn.intro]
 file_filter = pots/.pot
 source_file = pots/intro.pot
 source_lang = en
-trans.zh_CN = translations/intro.po
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/intro.po
 type = PO
 
 [djangodoc-zh_cn.misc]
 file_filter = pots/.pot
 source_file = pots/misc.pot
 source_lang = en
-trans.zh_CN = translations/misc.po
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/misc.po
 type = PO
 
 [djangodoc-zh_cn.ref]
 file_filter = pots/.pot
 source_file = pots/ref.pot
 source_lang = en
-trans.zh_CN = translations/ref.po
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/ref.po
 type = PO
 
 [djangodoc-zh_cn.releases]
 file_filter = pots/.pot
 source_file = pots/releases.pot
 source_lang = en
-trans.zh_CN = translations/releases.po
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/releases.po
 type = PO
 
 [djangodoc-zh_cn.topics]
 file_filter = pots/.pot
 source_file = pots/topics.pot
 source_lang = en
-trans.zh_CN = translations/topics.po
+trans.zh_CN = translations/zh_CN/LC_MESSAGES/topics.po
 type = PO
