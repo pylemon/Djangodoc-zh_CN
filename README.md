@@ -38,12 +38,26 @@ Steps
     
 1. change the filenames in translateions/zh_CN from *.pot to *.po
 
+    $ cd translations/zh_CN
+    $ for filename, ext in <this folder>
+    $ !mv filename+ext filename+'.po'
+    
 1. translate the po files.
+   
+    edit the po files to make strings translated.
+
+
+Make a readable doc on RTD
+==========================
 
 1. copy the docs from django project.
 
     $ cp -a django/docs .
     
+1. make mo files.
+   
+    $ for filename, ext in translations/zh_CN/*.po
+    $ msgfmt "filename + ext" -o "translated/zh_CN/LC_MESSAGES/filename + .mo"
 
 
 
