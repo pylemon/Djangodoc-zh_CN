@@ -75,3 +75,16 @@ Make a readable doc on RTD
 
     ~/Djangodoc-zh_CN/docs/_build/html/index.html
 
+
+Get all the translations from online
+====================================
+
+1. get all the translations from online. this updates the `translations/zh_CN/LC_MESSAGES/*.po`
+
+    $ tx pull -a
+
+1. you can also edit the po files from local machine. then upload them to online.
+
+    $ tx push -t
+    
+    
