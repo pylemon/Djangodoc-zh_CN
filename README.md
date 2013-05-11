@@ -59,9 +59,19 @@ Make a readable doc on RTD
     $ for filename, ext in translations/zh_CN/*.po
     $ msgfmt "filename + ext" -o "translated/zh_CN/LC_MESSAGES/filename + .mo"
 
+1. update config file for sphinx.
 
+    open docs/conf.py:find language = None
+    update lines:
+    language = "zh_CN"
+    locale_dirs = ['../translated/']
 
-    
-    
-    
-    
+1. make html using sphinx
+
+    $ cd docs
+    $ make html
+
+1. the final docs will be in folder
+
+    ~/Djangodoc-zh_CN/docs/_build/html/index.html
+
