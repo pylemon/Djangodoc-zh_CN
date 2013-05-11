@@ -34,4 +34,13 @@ Steps
 1. copy all the pot files from django-docs-translations to pots folder.
 
     $ cp django-docs-translations/pots/* pots/
+    $ cp pots/* translations/zh_CN/
+    
+1. change the filenames in translateions/zh_CN from *.pot to *.po
+
+
+
+    
+    
+    
     
