@@ -1,9 +1,25 @@
 Djangodoc-zh_CN
 ===============
 
-django documentation chinese version
+最近发现 `transifex` 是一个很棒的合作翻译平台. 很多大型的项目都是在这里做的翻译. 其中也包括了 django. 但是目前 参与翻译 django 文档的貌似并不积极. 因此. 我 folk 了一份, 模仿了官方的做法. 新建了一个项目. 包括对应的 github. 做了些小的脚本.
+可以及时的更新 大家的劳动成果.
 
-* Use django opensource project to get the latest content for translations
+简单的说:
+
+如果想阅读半成品的翻译结果 请访问:
+
+    https://djangodoc-zh_cn.readthedocs.org/
+
+如果想参与进来一起翻译 请访问:
+
+    https://www.transifex.com/projects/p/djangodoc-zh_cn/
+
+如果更新了内容, 请发 issue 我会跑下脚本 更新 readthedocs 上的内容.
+
+
+----
+
+下面的内容暂时忽略把. 我写的一些配置这些东西的笔记.
 
 submodules
 ==========
