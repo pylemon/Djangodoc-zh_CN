@@ -1,0 +1,3 @@
+[submodule "django-docs-translations"]
+	path = django-docs-translations
+	url = git://github.com/django/django-docs-translations.git
