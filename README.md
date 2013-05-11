@@ -38,6 +38,13 @@ Steps
     
 1. change the filenames in translateions/zh_CN from *.pot to *.po
 
+1. translate the po files.
+
+1. copy the docs from django project.
+
+    $ cp -a django/docs .
+    
+
 
 
     
