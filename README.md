@@ -15,3 +15,23 @@ submodules
   django translations project use the branch stable/1.5.x
   This is where the pot files comes from. make sure it is on the right   branch.
 
+Steps
+=====
+
+# TODO
+* try to make these steps into a python script.
+
+1. setup the django and django-docs-translations to the right version.
+
+    $ git submodules update --init --rebase
+    $ cd django
+    $ git checkout 1.5.1
+    $ cd ../
+    $ cd django-docs-translations
+    $ git checkout stable/1.5.x
+    $ cd ../
+
+1. copy all the pot files from django-docs-translations to pots folder.
+
+    $ cp django-docs-translations/pots/* pots/
+    
