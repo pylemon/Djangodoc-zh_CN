@@ -18,5 +18,8 @@ def compile_po(po_filename):
     subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, close_fds=True)
 
 if __name__ == '__main__':
+    # --- run the `$ tx pull` to fetch the online translations
+
+    # --- run the compile_po to make mo files
     for filename in os.listdir(path):
         compile_po(filename)

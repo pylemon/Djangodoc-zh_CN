@@ -88,3 +88,6 @@ Get all the translations from online
     $ tx push -t
     
     
+1. `docs/` contains django v1.5.1 docs content. make that using translations from tx.
+
+    $ ./update.py
