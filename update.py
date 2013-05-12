@@ -23,3 +23,6 @@ if __name__ == '__main__':
     # --- run the compile_po to make mo files
     for filename in os.listdir(path):
         compile_po(filename)
+
+    # --- update local html 
+
