@@ -8,11 +8,11 @@ Djangodoc-zh_CN
 
 如果想阅读半成品的翻译结果 请访问:
 
-    https://djangodoc-zh_cn.readthedocs.org/
+[https://djangodoc-zh_cn.readthedocs.org/en/latest/](https://djangodoc-zh_cn.readthedocs.org/en/latest/)
 
 如果想参与进来一起翻译 请访问:
 
-    https://www.transifex.com/projects/p/djangodoc-zh_cn/
+[https://www.transifex.com/projects/p/djangodoc-zh_cn/](https://www.transifex.com/projects/p/djangodoc-zh_cn/)
 
 如果更新了内容, 请发 issue 我会跑下脚本 更新 readthedocs 上的内容.
 
