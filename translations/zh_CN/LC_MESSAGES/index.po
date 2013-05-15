@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: djangodoc-zh_CN\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-02 21:26\n"
-"PO-Revision-Date: 2013-05-14 02:39+0000\n"
+"PO-Revision-Date: 2013-05-15 02:07+0000\n"
 "Last-Translator: pylemon <leeway1985@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/djangodoc-zh_cn/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -85,7 +85,7 @@ msgstr "你是刚接触 Django 或 新学编程? 这里是开始的地方!"
 msgid ""
 "**From scratch:** :doc:`Overview <intro/overview>` | :doc:`Installation "
 "<intro/install>`"
-msgstr ""
+msgstr "**从零开始:** :doc:`概要 <intro/overview>` | :doc:`安装 <intro/install>`"
 
 # ae4132431b4641c0bd659c9468f1dd7c
 #: ../../index.txt:43
@@ -94,40 +94,40 @@ msgid ""
 "<intro/tutorial02>` | :doc:`Part 3 <intro/tutorial03>` | :doc:`Part 4 "
 "<intro/tutorial04>` | :doc:`Part 5 <intro/tutorial05>` | :doc:`Part 6 "
 "<intro/tutorial06>`"
-msgstr ""
+msgstr "**入门教程:** :doc:`第1节 <intro/tutorial01>` | :doc:`第2节 <intro/tutorial02>` | :doc:`第3节 <intro/tutorial03>` | :doc:`第4节 <intro/tutorial04>` | :doc:`第5节 <intro/tutorial05>` | :doc:`第6节 <intro/tutorial06>`"
 
 # ba6e068f9a064e0b8bf4dde49198bcdb
 #: ../../index.txt:51
 msgid ""
 "**Advanced Tutorials:** :doc:`How to write reusable apps <intro/reusable-"
 "apps>` | :doc:`Writing your first patch for Django <intro/contributing>`"
-msgstr ""
+msgstr "**高阶教程:** :doc:`如何编写一个可重复使用的应用 <intro/reusable-apps>` | :doc:`编写你的第一个 Django 补丁 <intro/contributing>`"
 
 # 3ededb84348846158c0b65a9b5690180
 #: ../../index.txt:56
 msgid "The model layer"
-msgstr ""
+msgstr "Model 模型层"
 
 # 81754d2e6cef4bbf8ee2f70ae02f4096
 #: ../../index.txt:58
 msgid ""
 "Django provides an abstraction layer (the \"models\") for structuring and "
 "manipulating the data of your Web application. Learn more about it below:"
-msgstr ""
+msgstr "Django 提供了一个抽象的 (\"模型 models\") 层, 方便为你的Web应用操纵和构造数据. 阅读下面内容了解更多:"
 
 # 21267665e61b40a2a8487a04f5874c21
 #: ../../index.txt:61
 msgid ""
 "**Models:** :doc:`Model syntax <topics/db/models>` | :doc:`Field types "
 "<ref/models/fields>` | :doc:`Meta options <ref/models/options>`"
-msgstr ""
+msgstr "**Models:** :doc:`Model 语法 <topics/db/models>` | :doc:`字段类型 <ref/models/fields>` | :doc:`Meta 选项 <ref/models/options>`"
 
 # 800eb995e5354cffaad250eeac86021c
 #: ../../index.txt:66
 msgid ""
 "**QuerySets:** :doc:`Executing queries <topics/db/queries>` | :doc:`QuerySet"
 " method reference <ref/models/querysets>`"
-msgstr ""
+msgstr "**QuerySets查询集:** :doc:`执行查询 <topics/db/queries>` | :doc:`QuerySet 方法参考 <ref/models/querysets>`"
 
 # e8b95d3e3bac48f583929d9110fbe72d
 #: ../../index.txt:70
