@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: djangodoc-zh_CN\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-02 21:26\n"
-"PO-Revision-Date: 2013-05-15 02:07+0000\n"
+"PO-Revision-Date: 2013-05-15 05:14+0000\n"
 "Last-Translator: pylemon <leeway1985@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/djangodoc-zh_cn/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -134,7 +134,7 @@ msgstr "**QuerySets查询集:** :doc:`执行查询 <topics/db/queries>` | :doc:`
 msgid ""
 "**Model instances:** :doc:`Instance methods <ref/models/instances>` | "
 ":doc:`Accessing related objects <ref/models/relations>`"
-msgstr ""
+msgstr "**Model 实例:** :doc:`实例方法 <ref/models/instances>` | :doc:`访问关联对象 <ref/models/relations>`"
 
 # 7aee072983604e3080e1aa866c4d7a57
 #: ../../index.txt:74
@@ -143,7 +143,7 @@ msgid ""
 "<topics/db/sql>` | :doc:`Transactions <topics/db/transactions>` | "
 ":doc:`Aggregation <topics/db/aggregation>` | :doc:`Custom fields <howto"
 "/custom-model-fields>` | :doc:`Multiple databases <topics/db/multi-db>`"
-msgstr ""
+msgstr "**高级功能:** :doc:`管理器 <topics/db/managers>` | :doc:`SQL查询 <topics/db/sql>` | :doc:`事务 <topics/db/transactions>` | :doc:`聚合 <topics/db/aggregation>` | :doc:`自定义字段 <howto/custom-model-fields>` | :doc:`多数据库 <topics/db/multi-db>`"
 
 # 14d46a6e57b244cca09a944fc03c4503
 #: ../../index.txt:82
@@ -151,12 +151,12 @@ msgid ""
 "**Other:** :doc:`Supported databases <ref/databases>` | :doc:`Legacy "
 "databases <howto/legacy-databases>` | :doc:`Providing initial data <howto"
 "/initial-data>` | :doc:`Optimize database access <topics/db/optimization>`"
-msgstr ""
+msgstr "**其他:** :doc:`支持的数据库 <ref/databases>` | :doc:`遗产型数据库 <howto/legacy-databases>` | :doc:`提供初始化数据 <howto/initial-data>` | :doc:`优化数据库访问 <topics/db/optimization>`"
 
 # e8207a157fba40e6a5bd4b56c188ae76
 #: ../../index.txt:89
 msgid "The view layer"
-msgstr ""
+msgstr "View 视图层"
 
 # 42fbba9736f24befaa333b609d7f6f68
 #: ../../index.txt:91
@@ -164,7 +164,7 @@ msgid ""
 "Django has the concept of \"views\" to encapsulate the logic responsible for"
 " processing a user's request and for returning the response. Find all you "
 "need to know about views via the links below:"
-msgstr ""
+msgstr "Django 有个 \"views视图\" 的概念用来封装负责处理用户请求和返回响应数据的逻辑. 通过下面的连接可以查找到你所需要了解的关于视图的信息."
 
 # 962d3e15fd4b44949fece7f15286cccd
 #: ../../index.txt:95
