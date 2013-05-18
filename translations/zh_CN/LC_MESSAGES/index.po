@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: djangodoc-zh_CN\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-02 21:26\n"
-"PO-Revision-Date: 2013-05-15 05:14+0000\n"
+"PO-Revision-Date: 2013-05-18 09:54+0000\n"
 "Last-Translator: pylemon <leeway1985@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/djangodoc-zh_cn/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -172,7 +172,7 @@ msgid ""
 "**The basics:** :doc:`URLconfs <topics/http/urls>` | :doc:`View functions "
 "<topics/http/views>` | :doc:`Shortcuts <topics/http/shortcuts>` | "
 ":doc:`Decorators <topics/http/decorators>`"
-msgstr ""
+msgstr "**基础知识:** :doc:`URL配置 <topics/http/urls>` | :doc:`View 视图函数 <topics/http/views>` | :doc:`快捷方式 <topics/http/shortcuts>` | :doc:`装饰器 <topics/http/decorators>`"
 
 # 2e44d6507c6d495ea21b8b3bb034c1b9
 #: ../../index.txt:101
@@ -180,7 +180,7 @@ msgid ""
 "**Reference:** :doc:`Built-in Views <ref/views>` | :doc:`Request/response "
 "objects <ref/request-response>` | :doc:`TemplateResponse objects <ref"
 "/template-response>`"
-msgstr ""
+msgstr "**参考:** :doc:`内建 Views <ref/views>` | :doc:`请求/响应 对象 <ref/request-response>` | :doc:`模板响应 对象 <ref/template-response>`"
 
 # 404f728574c34ee39545156c5f77f6de
 #: ../../index.txt:106
@@ -189,7 +189,7 @@ msgid ""
 "objects <ref/files/file>` | :doc:`Storage API <ref/files/storage>` | "
 ":doc:`Managing files <topics/files>` | :doc:`Custom storage <howto/custom-"
 "file-storage>`"
-msgstr ""
+msgstr "**文件上传:** :doc:`概要 <topics/http/file-uploads>` | :doc:`文件对象 <ref/files/file>` | :doc:`存储 API <ref/files/storage>` | :doc:`管理 文件 <topics/files>` | :doc:`自定义存储 <howto/custom-file-storage>`"
 
 # 38a989e46dfb4c3c8ff1575438cf7818
 #: ../../index.txt:113
@@ -200,26 +200,26 @@ msgid ""
 ":doc:`Using mixins <topics/class-based-views/mixins>` | :doc:`API reference "
 "<ref/class-based-views/index>` | :doc:`Flattened index<ref/class-based-views"
 "/flattened-index>`"
-msgstr ""
+msgstr "**基于类的视图 views:** :doc:`概要 <topics/class-based-views/index>` | :doc:`内建 展示 视图 views <topics/class-based-views/generic-display>` | :doc:`内建 编辑 视图 views <topics/class-based-views/generic-editing>` | :doc:`使用 mixins <topics/class-based-views/mixins>` | :doc:`API 参考 <ref/class-based-views/index>` | :doc:`扁平 索引 <ref/class-based-views/flattened-index>`"
 
 # ad60635fd25e419f9bffc0d540bb6e41
 #: ../../index.txt:121
 msgid ""
 "**Advanced:** :doc:`Generating CSV <howto/outputting-csv>` | "
 ":doc:`Generating PDF <howto/outputting-pdf>`"
-msgstr ""
+msgstr "**高级:** :doc:`生成 CSV <howto/outputting-csv>` | :doc:`生成 PDF <howto/outputting-pdf>`"
 
 # 994b9c1fb39d47f2b75a441baf9b10dc
 #: ../../index.txt:125
 msgid ""
 "**Middleware:** :doc:`Overview <topics/http/middleware>` | :doc:`Built-in "
 "middleware classes <ref/middleware>`"
-msgstr ""
+msgstr "**中间件:** :doc:`概要 <topics/http/middleware>` | :doc:`内建中间件类 <ref/middleware>`"
 
 # c0bf4fa12bca4677b222cc8957a4d3e2
 #: ../../index.txt:130
 msgid "The template layer"
-msgstr ""
+msgstr "Template 模板层"
 
 # 42be807e22bb4e0dae8249dd6d490ecc
 #: ../../index.txt:132
@@ -227,7 +227,7 @@ msgid ""
 "The template layer provides a designer-friendly syntax for rendering the "
 "information to be presented to the user. Learn how this syntax can be used "
 "by designers and how it can be extended by programmers:"
-msgstr ""
+msgstr "模板层为渲染信息显示给用户提供了一个对设计师非常有好的语法. 学习这种语法如何被设计人员使用 并且了解程序员如何扩展它的功能:"
 
 # fdf98c063f2c4b7b8dcd1c2316af182d
 #: ../../index.txt:136
@@ -235,26 +235,26 @@ msgid ""
 "**For designers:** :doc:`Syntax overview <topics/templates>` | :doc:`Built-"
 "in tags and filters <ref/templates/builtins>` | :doc:`Web design helpers "
 "<ref/contrib/webdesign>` | :doc:`Humanization <ref/contrib/humanize>`"
-msgstr ""
+msgstr "**做为设计师:** :doc:`语法概要 <topics/templates>` | :doc:`内建标签和过滤器 <ref/templates/builtins>` | :doc:`Web设计帮助 <ref/contrib/webdesign>` | :doc:`人性化 <ref/contrib/humanize>`"
 
 # 2c21b8f6f0534c62a83b1075835635ca
 #: ../../index.txt:142
 msgid ""
 "**For programmers:** :doc:`Template API <ref/templates/api>` | :doc:`Custom "
 "tags and filters <howto/custom-template-tags>`"
-msgstr ""
+msgstr "**作为程序员:** :doc:`模板 API <ref/templates/api>` | :doc:`自定义标签及过滤器 <howto/custom-template-tags>`"
 
 # e66fbaae7838411a8d2a07608fdce0b2
 #: ../../index.txt:147
 msgid "Forms"
-msgstr ""
+msgstr "表单"
 
 # 5902b592aa304998a47dec81bbb2a647
 #: ../../index.txt:149
 msgid ""
 "Django provides a rich framework to facilitate the creation of forms and the"
 " manipulation of form data."
-msgstr ""
+msgstr "Django 提供了一个功能丰富的便捷创建表单并操纵表单数据的框架."
 
 # 379a1c516f054cba9f8e7c9b090f5d3b
 #: ../../index.txt:152
@@ -262,7 +262,7 @@ msgid ""
 "**The basics:** :doc:`Overview <topics/forms/index>` | :doc:`Form API "
 "<ref/forms/api>` | :doc:`Built-in fields <ref/forms/fields>` | :doc:`Built-"
 "in widgets <ref/forms/widgets>`"
-msgstr ""
+msgstr "**基础知识:** :doc:`概要 <topics/forms/index>` | :doc:`表单 API <ref/forms/api>` | :doc:`内建字段 <ref/forms/fields>` | :doc:`内建部件 <ref/forms/widgets>`"
 
 # 8a2eb84dc7f4465e99f0a878fae4d1f7
 #: ../../index.txt:158
@@ -271,19 +271,19 @@ msgid ""
 ":doc:`Integrating media <topics/forms/media>` | :doc:`Formsets "
 "<topics/forms/formsets>` | :doc:`Customizing validation "
 "<ref/forms/validation>`"
-msgstr ""
+msgstr "**高级:** :doc:`模型表单 <topics/forms/modelforms>` | :doc:`集成多媒体 <topics/forms/media>` | :doc:`表单集 <topics/forms/formsets>` | :doc:`自定义表单验证 <ref/forms/validation>`"
 
 # d655a447cbf445b1bd836753f3c23045
 #: ../../index.txt:164
 msgid ""
 "**Extras:** :doc:`Form preview <ref/contrib/formtools/form-preview>` | "
 ":doc:`Form wizard <ref/contrib/formtools/form-wizard>`"
-msgstr ""
+msgstr "**额外补充:** :doc:`表单预览 <ref/contrib/formtools/form-preview>` | :doc:`表单向导 <ref/contrib/formtools/form-wizard>`"
 
 # a54b33e245c14204b4a81621c6d1a40b
 #: ../../index.txt:169
 msgid "The development process"
-msgstr ""
+msgstr "开发步骤"
 
 # f4926413d70c45c4b8c7d49843349c56
 #: ../../index.txt:171
