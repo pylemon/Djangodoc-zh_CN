@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: djangodoc-zh_CN\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-02 21:26\n"
-"PO-Revision-Date: 2013-05-18 09:54+0000\n"
+"PO-Revision-Date: 2013-05-20 02:10+0000\n"
 "Last-Translator: pylemon <leeway1985@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/djangodoc-zh_cn/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -290,26 +290,26 @@ msgstr "开发步骤"
 msgid ""
 "Learn about the various components and tools to help you in the development "
 "and testing of Django applications:"
-msgstr ""
+msgstr "学习和了解开发和测试Django应用的各种组件和工具:"
 
 # 2a22d3b97f004071b159502619061194
 #: ../../index.txt:174
 msgid ""
 "**Settings:** :doc:`Overview <topics/settings>` | :doc:`Full list of "
 "settings <ref/settings>`"
-msgstr ""
+msgstr "**设置:** :doc:`概要 <topics/settings>` | :doc:`设置的完整列表 <ref/settings>`"
 
 # 211f41e3d06a4d98849d7f8a67b3d2a9
 #: ../../index.txt:178
 msgid "**Exceptions:** :doc:`Overview <ref/exceptions>`"
-msgstr ""
+msgstr "**异常:** :doc:`概要 <ref/exceptions>`"
 
 # d4b2e9239d4341689218ba51db3495a3
 #: ../../index.txt:181
 msgid ""
 "**django-admin.py and manage.py:** :doc:`Overview <ref/django-admin>` | "
 ":doc:`Adding custom commands <howto/custom-management-commands>`"
-msgstr ""
+msgstr "**django-admin.py 与 manage.py:** :doc:`概要 <ref/django-admin>` | :doc:`增加自定义命令 <howto/custom-management-commands>`"
 
 # 3493cde345764619b1d23a413098800e
 #: ../../index.txt:185
@@ -317,7 +317,7 @@ msgid ""
 "**Testing:** :doc:`Introduction <topics/testing/index>` | :doc:`Writing and "
 "running tests <topics/testing/overview>` | :doc:`Advanced topics "
 "<topics/testing/advanced>` | :doc:`Doctests <topics/testing/doctests>`"
-msgstr ""
+msgstr "**测试:** :doc:`简介 <topics/testing/index>` | :doc:`编写和运行测试 <topics/testing/overview>` | :doc:`高阶话题 <topics/testing/advanced>` | :doc:`文档测试 <topics/testing/doctests>`"
 
 # 8303c2af21214b379abe373f642bc6f7
 #: ../../index.txt:191
@@ -327,39 +327,39 @@ msgid ""
 "<howto/deployment/fastcgi>` | :doc:`Deploying static files <howto/static-"
 "files/deployment>` | :doc:`Tracking code errors by email <howto/error-"
 "reporting>`"
-msgstr ""
+msgstr "**部署:** :doc:`概要 <howto/deployment/index>` | :doc:`WSGI 服务器 <howto/deployment/wsgi/index>` | :doc:`FastCGI/SCGI/AJP <howto/deployment/fastcgi>` | :doc:`部署静态文件 <howto/static-files/deployment>` | :doc:`通过email追踪代码错误 <howto/error-reporting>`"
 
 # cbfd0e705133443ea43845509e587835
 #: ../../index.txt:199
 msgid "The admin"
-msgstr ""
+msgstr "Admin后台"
 
 # 8a2a83f400114f37905e09b8435eede3
 #: ../../index.txt:201
 msgid ""
 "Find all you need to know about the automated admin interface, one of "
 "Django's most popular features:"
-msgstr ""
+msgstr "找到你需要了解的一切关于自动后台admin界面的相关信息, 这是Django最受欢迎的功能:"
 
 # 2aa5222f5eb0402e8587e2ad76bfc577
 #: ../../index.txt:204
 msgid ":doc:`Admin site <ref/contrib/admin/index>`"
-msgstr ""
+msgstr ":doc:`Admin 网站 <ref/contrib/admin/index>`"
 
 # 296a6fd2ad7544e48231173d73b40678
 #: ../../index.txt:205
 msgid ":doc:`Admin actions <ref/contrib/admin/actions>`"
-msgstr ""
+msgstr ":doc:`Admin 动作 <ref/contrib/admin/actions>`"
 
 # 7f5e3d248bce462aaace9c6cd894e0d3
 #: ../../index.txt:206
 msgid ":doc:`Admin documentation generator<ref/contrib/admin/admindocs>`"
-msgstr ""
+msgstr ":doc:`Admin 文档生成器<ref/contrib/admin/admindocs>`"
 
 # 814504c71998436abde1e33a43fa55dd
 #: ../../index.txt:209
 msgid "Security"
-msgstr ""
+msgstr "安全"
 
 # dd9c964fa1014f839dbe23b04f427768
 #: ../../index.txt:211
